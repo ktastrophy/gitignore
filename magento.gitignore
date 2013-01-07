@@ -23,6 +23,8 @@ app/code/*
 app/etc/*
 !app/etc/modules
 
+!app/design
+app/design/*
 !app/design/frontend
 app/design/frontend/*
 !app/design/frontend/MY_TEMPLATE
